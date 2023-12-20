@@ -1,6 +1,6 @@
 # NPM
 
-## Apa itu NPM dan apa kegunaanya?
+## Apa itu NPM dan apa kegunaannya?
 
 NPM (Node Package Manager) adalah sebuah tools yang berdiri diatas NodeJS dan berfungsi untuk melakukan management project NodeJS.
 
@@ -76,7 +76,9 @@ scripts :
 
 hasil : 
 
-![Untitled](NPM%20e88e4096587a48c58be4a3df12d5ad82/Untitled.png)
+![Untitled](NPM%20e88e4096587a48c58be4a3df12d5ad82/Untitled.png
+
+**Next topic**
 
 package.json, package-lock, node_modules
 
